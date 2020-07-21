@@ -1,14 +1,17 @@
 ## Ejercicio 2
-Filtrado en Array
+Filtrado en Array 
 
-## Description
+## Descripcion
 
-Ejercicio filtrar en Array compartiendo datos entre dos componenetes (listado de vegetales, y componente filter).
+Ejercicio de filtrado en Array, compartiendo datos entre dos componenetes (listado de vegetales, y filtro).
 
 
 # Intrucciones
-
+Para instalar las dependencias correr:
 ```
 $ npm install
+```
+Para iniciar la aplicacion web correr:
+```
 $ npm start
 ```
